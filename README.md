@@ -11,7 +11,7 @@
 
 ## 报告会宣传海报
 
- * 2021年05月16日2021操作系统大赛初赛阶段[第四次技术培训](https://mp.weixin.qq.com/s/eC4YU5fxXnP2mAyWJqCNmQ)
+ * 2021年05月16日2021操作系统大赛初赛阶段[第五次技术培训](https://mp.weixin.qq.com/s/eC4YU5fxXnP2mAyWJqCNmQ)
 
 ## 报告会日程
 
