@@ -21,7 +21,7 @@
 | ------ | --------------------------------- | ------------------------------------------------------------ | ---- |
 | 清华大学 张超 | 内核与驱动模糊测试技术介绍 | [pdf](https://lexiangla.com/teams/k100041/docs/4d52983eb61811eb883ebe1b8cc9530f?company_from=79350bd4d06911ea91f05254002f1020) |      | 
 | 麒麟软件 黄晟 | 麒麟移动应用环境 | [pdf](https://lexiangla.com/teams/k100041/docs/55044f8ab62411ebb06b068ba10bdf3a?company_from=79350bd4d06911ea91f05254002f1020) |      | 
-| 中科创达 邓凡平 | 中科创达在AIoT OS领域的实践与大赛赛题分析 | [pdf] () |      | 
+| 中科创达 邓凡平 | 中科创达在AIoT OS领域的实践与大赛赛题分析 | [pdf](https://lexiangla.com/teams/k100041/docs/5a13ad36be3511ebbd93e60def78e1e8?company_from=79350bd4d06911ea91f05254002f1020) |      | 
 
 ## 报告会现场直播链接
  * [CSDN](https://live.csdn.net/room/wl5875/C2MCK6SU)
